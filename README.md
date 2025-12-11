@@ -60,5 +60,5 @@ Key features include:
 # 📈 Impact
 By making sustainability data approachable and rewarding, ShopImpact empowers individuals to make informed, eco-friendly decisions — one purchase at a time.
 
-streamlit link-
+streamlit link-https://idai102-2505464--poojanmagnani-sapython.streamlit.app
 
